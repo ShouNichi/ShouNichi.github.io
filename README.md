@@ -1,2 +1,0 @@
-# ShouNichi.github.io
-Site!
